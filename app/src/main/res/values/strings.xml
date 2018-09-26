@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="log">Inicio</string>
+    <string name="txt_email">E-mail</string>
+    <string name="txt_Password">Password</string>
+    <string name="txt_help">comprueba que esta bien escrita</string>
+</resources>
