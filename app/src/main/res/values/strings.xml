@@ -3,5 +3,27 @@
     <string name="log">Inicio</string>
     <string name="txt_email">E-mail</string>
     <string name="txt_Password">Password</string>
+    <string name="txt_btnfloat">Œ</string>
+    <string name="txt_remember">recordarme</string>
     <string name="txt_help">comprueba que esta bien escrita</string>
+    <string name="txt_name">name</string>
+    <string name="txt_firstSurname">first surname</string>
+    <string name="txt_gender">GENDER</string>
+    <string name="txt_secondSurname">second surname</string>
+    <string name="txt_phone">phone</string>
+    <string name="txt_male">male</string>
+    <string name="txt_female">female</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="txt_date">Select Date</string>
+
+
 </resources>
